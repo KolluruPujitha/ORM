@@ -1,6 +1,8 @@
 # Ex02 Django ORM Web Application
 ## Date:18-03-2024 
 
+
+
 ## AIM
 To develop a Django application to store and retrieve data from a Railway database using Object Relational Mapping(ORM).
 
@@ -56,8 +58,6 @@ admin.site.register(Railway, RailwayAdmin)
 ## OUTPUT
 
 ![Screenshot 2024-03-15 141326](https://github.com/KolluruPujitha/ORM/assets/150231340/4a90ea97-6317-4cb7-b6e3-17d6d02e6579)
-
-
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
