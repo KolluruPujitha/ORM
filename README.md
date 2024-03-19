@@ -1,10 +1,13 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date:18-03-2024 
 
 ## AIM
 To develop a Django application to store and retrieve data from a Railway database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
+
+
+
 ![WhatsApp Image 2024-03-18 at 18 59 50_2a725946](https://github.com/KolluruPujitha/ORM/assets/150231340/2c636500-afa3-4fbe-8466-ef061a09a856)
 
 
